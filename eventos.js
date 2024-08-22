@@ -1,0 +1,4 @@
+function clickBoton() {
+    alert("Hola!");
+}
+
